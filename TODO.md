@@ -1,0 +1,2 @@
+- [ ] Convert Dog class in lib/dog.py to use @property and @setter decorators instead of property() function
+- [ ] Run pytest to verify tests pass
